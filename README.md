@@ -47,7 +47,7 @@ Se você tiver alguma dúvida ou curiosidade sobre essas linguagens de programa�
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=LucasArais&show_icons=true&theme=radical" alt="Lucas Arais GitHub Stats"/>
       <p>
-<!-- 🎯 O projeto que estou trabalhando atualmente é: <!-- REPO_ATUAL --> nome-do-repo-aqui <!-- FIM_REPO_ATUAL --> -->
+<!-- 🎯 O projeto que estou trabalhando atualmente é:  REPO_ATUAL nome-do-repo-aqui FIM_REPO_ATUAL -->
   </tr>
 </table>
 </div>
