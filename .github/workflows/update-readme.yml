@@ -2,7 +2,7 @@ name: Atualizar README com projeto atual
 
 on:
   schedule:
-    - cron: "0 * * * *" # roda a cada hora
+    - cron: "0 * * * *" # A cada 1 hora
   workflow_dispatch:
 
 jobs:
@@ -12,15 +12,14 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Instalar jq
-        run: sudo apt-get install jq -y
+      - name: Instalar dependências
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Tornar o script executável
         run: chmod +x atualizar_readme.sh
 
-      - name: Rodar script de atualização
+      - name: Executar script de atualização
         run: ./atualizar_readme.sh
-
-      - name: Ver resultado (debug)
-        run: cat README.md
