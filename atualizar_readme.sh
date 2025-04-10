@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Busca o commit mais recente do usuário via API do GitHub
-latest_repo=$(curl -s "https://api.github.com/users/LucasArais/events/public" | \
-  jq -r '[.[] | select(.type=="PushEvent")][0].repo.name')
+# Pega o repositório com o commit mais recente (usuário LucasArais)
+REPO=$(curl -s "https://api.github.com/users/LucasArais/repos?sort=pushed&per_page=1" | jq -r '.[0].name')
 
-# Atualiza a seção no README.md
-sed -i "s|<!-- REPO_ATUAL -->.*<!-- FIM_REPO_ATUAL -->|<!-- REPO_ATUAL --> $latest_repo <!-- FIM_REPO_ATUAL -->|" README.md
+# Faz o replace dentro do README
+sed -i "s/<!-- REPO_ATUAL -->.*<!-- FIM_REPO_ATUAL -->/<!-- REPO_ATUAL -->$REPO<!-- FIM_REPO_ATUAL -->/" README.md
