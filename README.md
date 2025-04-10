@@ -6,7 +6,7 @@
 
 
 ### Olá, eu sou [Lucas Arais de Souza](https://www.linkedin.com/in/lucas-arais/)
-Um **Engenheiro de Machine Learning** apaixonado que adora transformar dados em soluções impactantes, com a Gemini.
+Um **Engenheiro de Machine Learning** que adora transformar dados em soluções impactantes, com Gemini.
 
 Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar — espero que você encontre algo útil ou inspirador ao longo do caminho :)
 
