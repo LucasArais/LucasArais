@@ -1,29 +1,22 @@
-name: Atualizar README com projeto atual
+name: Atualizar README
 
 on:
   schedule:
-    - cron: '0 12 * * *' # executa todos os dias ao meio-dia (UTC)
+    - cron: '0 * * * *'  # A cada hora
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
       - name: Instalar jq
-        run: sudo apt-get install jq -y
+        run: sudo apt-get install jq
 
-      - name: Dar permissão ao script
-        run: chmod +x atualizar_readme.sh
+      - name: Rodar script de atualização
+        run: bash atualizar_readme.sh
 
-      - name: Rodar o script
-        run: ./atualizar_readme.sh
-
-      - name: Commitar e dar push das mudanças
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "update: projeto atual"
-          git push
+      - name: Ver resultado
+        run: cat README.md
