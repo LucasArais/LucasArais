@@ -33,7 +33,6 @@ Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar �
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" alt="AWS" title="Amazon Web Services"/>
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="40" alt="TensorFlow" title="TensorFlow"/>
   <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" width="40" alt="Apache Spark" title="Apache Spark"/>
-  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="40" alt="Google Colab" title="Google Colab"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/?size=100&id=467&format=png&color=000000" width="40" alt="GitHub" title="GitHub"/>
 </p>
