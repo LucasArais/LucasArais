@@ -19,13 +19,11 @@ Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar �
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="40" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="40" alt="PHP" title="PHP"/>
-  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="40" alt="C" title="C"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" alt="HTML" title="HTML"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="40" alt="Angular" title="Angular"/>
   <img src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000" width="40" alt="Flutter" title="Flutter"/>
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="40" alt="NodeJS" title="NodeJS"/>
-  <img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="40" alt="NPM" title="NPM"/>
   <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="40" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="40" alt="PostgreSQL" title="PostgreSQL"/>
