@@ -10,6 +10,8 @@ Um **Engenheiro de Machine Learning** que adora transformar dados em soluções 
 
 Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar — espero que você encontre algo útil ou inspirador ao longo do caminho :)
 
+🎯 Projeto em que estou trabalhando atualmente: **<!-- REPO_ATUAL -->carregando...<!-- FIM_REPO_ATUAL -->**
+
 ---
 ### 🧠 Meu conhecimento
 <br> 
@@ -35,24 +37,15 @@ Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar �
   <img src="https://img.icons8.com/?size=100&id=467&format=png&color=000000" width="40" alt="GitHub" title="GitHub"/>
 </p>
 
-Se você tiver alguma dúvida ou curiosidade sobre essas linguagens de programação, bancos de dados, serviços em nuvem ou ferramentas, basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/lucasarais/)! 🌐
+Se você tiver alguma dúvida ou curiosidade sobre essas linguagens de programação, bancos de dados, serviços em nuvem ou ferramentas, basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/lucas-arais/)! 🌐
 
 ---
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasArais&show_icons=true&theme=radical" alt="Lucas Arais GitHub Stats"/>
-      <p>
-<!-- 🎯 O projeto que estou trabalhando atualmente é:  REPO_ATUAL nome-do-repo-aqui FIM_REPO_ATUAL -->
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasArais&show_icons=true&theme=radical" alt="Lucas Arais GitHub Stats"/>
 </div>
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasArais/LucasArais/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasArais/LucasArais/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasArais/LucasArais/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasArais/LucasArais/output/github-contribution-grid-snake.svg">
 </picture>

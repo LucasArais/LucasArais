@@ -1,8 +1,15 @@
 #!/bin/bash
+set -euo pipefail
 
-REPO=$(curl -s "https://api.github.com/users/LucasArais/repos?sort=pushed&per_page=1" | jq -r '.[0].name')
+AUTH_HEADER=()
+if [ -n "${GITHUB_TOKEN:-}" ]; then
+  AUTH_HEADER=(-H "Authorization: token $GITHUB_TOKEN")
+fi
 
-if [ -z "$REPO" ]; then
+REPO=$(curl -s "${AUTH_HEADER[@]}" "https://api.github.com/users/LucasArais/repos?sort=pushed&per_page=5" \
+  | jq -r '[.[] | select(.name != "LucasArais")][0].name')
+
+if [ -z "$REPO" ] || [ "$REPO" = "null" ]; then
   echo "Erro: não foi possível obter o nome do repositório."
   exit 1
 fi
