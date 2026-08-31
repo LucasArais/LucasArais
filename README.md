@@ -10,7 +10,7 @@ Um **Engenheiro de Machine Learning** que adora transformar dados em soluções 
 
 Bem-vindo aos meus repositórios do GitHub! Sinta-se à vontade para explorar — espero que você encontre algo útil ou inspirador ao longo do caminho :)
 
-🎯 Projeto em que estou trabalhando atualmente: **<!-- REPO_ATUAL -->carregando...<!-- FIM_REPO_ATUAL -->**
+🎯 Projeto em que estou trabalhando atualmente: **<!-- REPO_ATUAL -->LinkedinPosts<!-- FIM_REPO_ATUAL -->**
 
 ---
 ### 🧠 Meu conhecimento
