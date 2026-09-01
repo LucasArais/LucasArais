@@ -24,35 +24,43 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasArais/LinkedinPosts"><b>📬 LinkedinPosts</b></a>
-      <br/>Demos, experimentos e provas de conceito de IA, Cloud, Dados e Engenharia de Software para os meus posts no LinkedIn.
-      <br/>
-      <img src="https://img.shields.io/github/languages/top/LucasArais/LinkedinPosts?style=flat-square&color=1488CC" alt="linguagem principal"/>
+    <td width="50%" valign="top" align="center">
+      <h4>📬 &nbsp;<a href="https://github.com/LucasArais/LinkedinPosts">LinkedinPosts</a></h4>
+      <sub>Demos, experimentos e provas de conceito de IA, Cloud, Dados e Engenharia de Software para os meus posts no LinkedIn.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/github/last-commit/LucasArais/LinkedinPosts?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/LinkedinPosts"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner"><b>🤖 herm.es</b></a>
-      <br/>Your conversational lead partner — assistente conversacional para qualificação de leads.
-      <br/>
-      <img src="https://img.shields.io/github/languages/top/LucasArais/herm.es-your-conversational-lead-partner?style=flat-square&color=1488CC" alt="linguagem principal"/>
+    <td width="50%" valign="top" align="center">
+      <h4>🤖 &nbsp;<a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner">herm.es</a></h4>
+      <sub>Your conversational lead partner — assistente conversacional para qualificação de leads.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/github/last-commit/LucasArais/herm.es-your-conversational-lead-partner?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasArais/gemini"><b>✨ gemini</b></a>
-      <br/>Experiências e estudos práticos com a API do Gemini.
-      <br/>
-      <img src="https://img.shields.io/github/languages/top/LucasArais/gemini?style=flat-square&color=1488CC" alt="linguagem principal"/>
+    <td width="50%" valign="top" align="center">
+      <h4>✨ &nbsp;<a href="https://github.com/LucasArais/gemini">gemini</a></h4>
+      <sub>Experiências e estudos práticos com a API do Gemini.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
       <img src="https://img.shields.io/github/last-commit/LucasArais/gemini?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/gemini"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LucasArais/TCC"><b>🎓 TCC</b></a>
-      <br/>Trabalho de Conclusão de Curso — Fatec Ipiranga.
-      <br/>
-      <img src="https://img.shields.io/github/languages/top/LucasArais/TCC?style=flat-square&color=1488CC" alt="linguagem principal"/>
+    <td width="50%" valign="top" align="center">
+      <h4>🎓 &nbsp;<a href="https://github.com/LucasArais/TCC">TCC</a></h4>
+      <sub>Trabalho de Conclusão de Curso — Fatec Ipiranga.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/github/stars/LucasArais/TCC?style=flat-square&color=1488CC" alt="estrelas"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/TCC"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
   </tr>
 </table>
