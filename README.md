@@ -20,6 +20,43 @@
 
 <br>
 
+### 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasArais/LinkedinPosts"><b>📬 LinkedinPosts</b></a>
+      <br/>Demos, experimentos e provas de conceito de IA, Cloud, Dados e Engenharia de Software para os meus posts no LinkedIn.
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/LucasArais/LinkedinPosts?style=flat-square&color=1488CC" alt="linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/LinkedinPosts?style=flat-square&color=1488CC" alt="último commit"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner"><b>🤖 herm.es</b></a>
+      <br/>Your conversational lead partner — assistente conversacional para qualificação de leads.
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/LucasArais/herm.es-your-conversational-lead-partner?style=flat-square&color=1488CC" alt="linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/herm.es-your-conversational-lead-partner?style=flat-square&color=1488CC" alt="último commit"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasArais/gemini"><b>✨ gemini</b></a>
+      <br/>Experiências e estudos práticos com a API do Gemini.
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/LucasArais/gemini?style=flat-square&color=1488CC" alt="linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/gemini?style=flat-square&color=1488CC" alt="último commit"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LucasArais/TCC"><b>🎓 TCC</b></a>
+      <br/>Trabalho de Conclusão de Curso — Fatec Ipiranga.
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/LucasArais/TCC?style=flat-square&color=1488CC" alt="linguagem principal"/>
+      <img src="https://img.shields.io/github/stars/LucasArais/TCC?style=flat-square&color=1488CC" alt="estrelas"/>
+    </td>
+  </tr>
+</table>
+
 ### 🧠 Meu conhecimento
 
 <p align="center">
@@ -49,7 +86,21 @@
   <img src="https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified"/>
 </div>
 
-Se você tiver alguma dúvida ou curiosidade sobre essas linguagens de programação, bancos de dados, serviços em nuvem ou ferramentas, basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/lucas-arais/)! 🌐
+### 📫 Contato
+
+Alguma dúvida ou curiosidade sobre essas linguagens, bancos de dados, serviços em nuvem ou ferramentas? Me chama! 🌐
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-arais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lucas_arais@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/LucasArais">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
