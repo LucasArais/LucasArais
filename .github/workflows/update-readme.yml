@@ -18,9 +18,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Instalar dependências
-        run: sudo apt-get update && sudo apt-get install -y jq
-
       - name: Tornar o script executável
         run: chmod +x atualizar_readme.sh
 

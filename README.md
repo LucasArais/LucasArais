@@ -21,12 +21,14 @@
 <br>
 
 ### 🚀 Projetos em destaque
+<sub>Atualizado automaticamente com os repositórios em que mexi por último</sub>
 
+<!-- FEATURED_PROJECTS_START -->
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>📬 &nbsp;<a href="https://github.com/LucasArais/LinkedinPosts">LinkedinPosts</a></h4>
-      <sub>Demos, experimentos e provas de conceito de IA, Cloud, Dados e Engenharia de Software para os meus posts no LinkedIn.</sub>
+      <h4>🐍 &nbsp;<a href="https://github.com/LucasArais/LinkedinPosts">LinkedinPosts</a></h4>
+      <sub>Code demos, experiments and proof of concepts created for my LinkedIn posts about AI, Cloud, Data and Software Engineering.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/github/last-commit/LucasArais/LinkedinPosts?style=flat-square&color=1488CC" alt="último commit"/>
@@ -34,7 +36,7 @@
       <a href="https://github.com/LucasArais/LinkedinPosts"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4>🤖 &nbsp;<a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner">herm.es</a></h4>
+      <h4>🔷 &nbsp;<a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner">herm.es-your-conversational-lead-partner</a></h4>
       <sub>Your conversational lead partner — assistente conversacional para qualificação de leads.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -45,25 +47,26 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>✨ &nbsp;<a href="https://github.com/LucasArais/gemini">gemini</a></h4>
-      <sub>Experiências e estudos práticos com a API do Gemini.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-      <img src="https://img.shields.io/github/last-commit/LucasArais/gemini?style=flat-square&color=1488CC" alt="último commit"/>
-      <br/><br/>
-      <a href="https://github.com/LucasArais/gemini"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🎓 &nbsp;<a href="https://github.com/LucasArais/TCC">TCC</a></h4>
+      <h4>🟨 &nbsp;<a href="https://github.com/LucasArais/TCC">TCC</a></h4>
       <sub>Trabalho de Conclusão de Curso — Fatec Ipiranga.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/github/stars/LucasArais/TCC?style=flat-square&color=1488CC" alt="estrelas"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/TCC?style=flat-square&color=1488CC" alt="último commit"/>
       <br/><br/>
       <a href="https://github.com/LucasArais/TCC"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
+    <td width="50%" valign="top" align="center">
+      <h4>📦 &nbsp;<a href="https://github.com/LucasArais/P3-PDM-LucasArais">P3-PDM-LucasArais</a></h4>
+      <sub>Projeto 3 da disciplina de Programação para Dispositivos Móveis — Fatec Ipiranga.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Code-6e7781?style=flat-square&logo=github&logoColor=white" alt="código"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/P3-PDM-LucasArais?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/P3-PDM-LucasArais"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
   </tr>
 </table>
+<!-- FEATURED_PROJECTS_END -->
 
 ### 🧠 Meu conhecimento
 
