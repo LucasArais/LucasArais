@@ -16,7 +16,7 @@
 - 📍 São Paulo, Brasil
 - 💬 Fale comigo no [LinkedIn](https://www.linkedin.com/in/lucas-arais/)
 
-🎯 **Projeto em que estou trabalhando atualmente:** <!-- REPO_ATUAL -->LinkedinPosts<!-- FIM_REPO_ATUAL -->
+🎯 **Projeto em que estou trabalhando atualmente:** <!-- REPO_ATUAL -->WiiPhone<!-- FIM_REPO_ATUAL -->
 
 <br>
 
@@ -27,6 +27,15 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
+      <h4>📦 &nbsp;<a href="https://github.com/LucasArais/WiiPhone">WiiPhone</a></h4>
+      <sub>Transform your smartphone into a Wii-style motion controller directly from the browser. Open-source, simple to use, and built for motion-based games without requiring additional hardware.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Code-6e7781?style=flat-square&logo=github&logoColor=white" alt="código"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/WiiPhone?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/WiiPhone"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+    <td width="50%" valign="top" align="center">
       <h4>🐍 &nbsp;<a href="https://github.com/LucasArais/LinkedinPosts">LinkedinPosts</a></h4>
       <sub>Code demos, experiments and proof of concepts created for my LinkedIn posts about AI, Cloud, Data and Software Engineering.</sub>
       <br/><br/>
@@ -35,6 +44,8 @@
       <br/><br/>
       <a href="https://github.com/LucasArais/LinkedinPosts"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h4>🔷 &nbsp;<a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner">herm.es-your-conversational-lead-partner</a></h4>
       <sub>Your conversational lead partner — assistente conversacional para qualificação de leads.</sub>
@@ -44,8 +55,6 @@
       <br/><br/>
       <a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="center">
       <h4>🟨 &nbsp;<a href="https://github.com/LucasArais/TCC">TCC</a></h4>
       <sub>Trabalho de Conclusão de Curso — Fatec Ipiranga.</sub>
@@ -54,15 +63,6 @@
       <img src="https://img.shields.io/github/last-commit/LucasArais/TCC?style=flat-square&color=1488CC" alt="último commit"/>
       <br/><br/>
       <a href="https://github.com/LucasArais/TCC"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>📦 &nbsp;<a href="https://github.com/LucasArais/P3-PDM-LucasArais">P3-PDM-LucasArais</a></h4>
-      <sub>Projeto 3 da disciplina de Programação para Dispositivos Móveis — Fatec Ipiranga.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Code-6e7781?style=flat-square&logo=github&logoColor=white" alt="código"/>
-      <img src="https://img.shields.io/github/last-commit/LucasArais/P3-PDM-LucasArais?style=flat-square&color=1488CC" alt="último commit"/>
-      <br/><br/>
-      <a href="https://github.com/LucasArais/P3-PDM-LucasArais"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
   </tr>
 </table>
