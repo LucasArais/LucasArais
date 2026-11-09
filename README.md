@@ -16,7 +16,7 @@
 - 📍 São Paulo, Brasil
 - 💬 Fale comigo no [LinkedIn](https://www.linkedin.com/in/lucas-arais/)
 
-🎯 **Projeto em que estou trabalhando atualmente:** <!-- REPO_ATUAL -->LinkedinPosts<!-- FIM_REPO_ATUAL -->
+🎯 **Projeto em que estou trabalhando atualmente:** <!-- REPO_ATUAL -->SempreAqui<!-- FIM_REPO_ATUAL -->
 
 <br>
 
@@ -25,6 +25,26 @@
 
 <!-- FEATURED_PROJECTS_START -->
 <table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>🔷 &nbsp;<a href="https://github.com/LucasArais/SempreAqui">SempreAqui</a></h4>
+      <sub>App open source com IA que aproxima famílias no cuidado de quem vive com Alzheimer, preservando a história da pessoa para que ninguém cuide sozinho.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/SempreAqui?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/SempreAqui"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🟨 &nbsp;<a href="https://github.com/LucasArais/WiiPhone">WiiPhone</a></h4>
+      <sub>Transform your smartphone into a Wii-style motion controller directly from the browser. Open-source, simple to use, and built for motion-based games without requiring additional hardware.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/github/last-commit/LucasArais/WiiPhone?style=flat-square&color=1488CC" alt="último commit"/>
+      <br/><br/>
+      <a href="https://github.com/LucasArais/WiiPhone"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h4>🐍 &nbsp;<a href="https://github.com/LucasArais/LinkedinPosts">LinkedinPosts</a></h4>
@@ -36,17 +56,6 @@
       <a href="https://github.com/LucasArais/LinkedinPosts"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4>📦 &nbsp;<a href="https://github.com/LucasArais/WiiPhone">WiiPhone</a></h4>
-      <sub>Transform your smartphone into a Wii-style motion controller directly from the browser. Open-source, simple to use, and built for motion-based games without requiring additional hardware.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Code-6e7781?style=flat-square&logo=github&logoColor=white" alt="código"/>
-      <img src="https://img.shields.io/github/last-commit/LucasArais/WiiPhone?style=flat-square&color=1488CC" alt="último commit"/>
-      <br/><br/>
-      <a href="https://github.com/LucasArais/WiiPhone"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
       <h4>🔷 &nbsp;<a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner">herm.es-your-conversational-lead-partner</a></h4>
       <sub>Your conversational lead partner — assistente conversacional para qualificação de leads.</sub>
       <br/><br/>
@@ -54,15 +63,6 @@
       <img src="https://img.shields.io/github/last-commit/LucasArais/herm.es-your-conversational-lead-partner?style=flat-square&color=1488CC" alt="último commit"/>
       <br/><br/>
       <a href="https://github.com/LucasArais/herm.es-your-conversational-lead-partner"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🟨 &nbsp;<a href="https://github.com/LucasArais/TCC">TCC</a></h4>
-      <sub>Trabalho de Conclusão de Curso — Fatec Ipiranga.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/github/last-commit/LucasArais/TCC?style=flat-square&color=1488CC" alt="último commit"/>
-      <br/><br/>
-      <a href="https://github.com/LucasArais/TCC"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
     </td>
   </tr>
 </table>
