@@ -27,10 +27,10 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>🔷 &nbsp;<a href="https://github.com/LucasArais/SempreAqui">SempreAqui</a></h4>
+      <h4>🐍 &nbsp;<a href="https://github.com/LucasArais/SempreAqui">SempreAqui</a></h4>
       <sub>App open source com IA que aproxima famílias no cuidado de quem vive com Alzheimer, preservando a história da pessoa para que ninguém cuide sozinho.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/github/last-commit/LucasArais/SempreAqui?style=flat-square&color=1488CC" alt="último commit"/>
       <br/><br/>
       <a href="https://github.com/LucasArais/SempreAqui"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
